@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PaymentApp</string>
+    <string name="product_added_to_cart_successfully">Product added to cart successfully</string>
+</resources>

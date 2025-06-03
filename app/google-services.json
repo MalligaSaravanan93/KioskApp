@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "677456552899",
+    "project_id": "trainingcomposeapp",
+    "storage_bucket": "trainingcomposeapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677456552899:android:e9dd8740411aff4e16d376",
+        "android_client_info": {
+          "package_name": "com.interview.mishi.pay.paymentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeDB9qdD8Fc-QTvm5aHraoBaHwpXMCShE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677456552899:android:3bf7ef15f719ec6f16d376",
+        "android_client_info": {
+          "package_name": "com.piappstudio.giftregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeDB9qdD8Fc-QTvm5aHraoBaHwpXMCShE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
