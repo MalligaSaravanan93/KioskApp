@@ -53,7 +53,7 @@ PaymentApp is a modern **Android payment system** built using **Jetpack Compose,
 ## 🛠 **Setup & Installation**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/KesavanPanneerselvam/paymentapp.git
+git clone https://github.com/MalligaSaravanan93/KioskApp.git
 cd paymentapp
 ```
 
