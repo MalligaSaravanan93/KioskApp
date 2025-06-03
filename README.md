@@ -108,12 +108,5 @@ This project is **open-source** and licensed under the **MIT License**.
 See the full license [here](LICENSE).
 
 ---
-
-## 📬 **Contact**
-📌 **Developer:** [Kesavan Panneerselvam](https://github.com/KesavanPanneerselvam)  
-📌 **Email:** kesavanpanneerselvam@gmail.com  
-📌 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kesavan-panneerselvam/)  
-
----
 🚀 **Star this repository** if you found it useful! ⭐
 
